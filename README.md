@@ -12,7 +12,7 @@
 
 ### 🚀 **About Me**
 - 🔭 I’m currently working on **Full-Stack Development Projects**
-- 🌱 I’m currently learning **Advanced Java, Spring Boot & Cloud Computing**
+- 🌱 I’m currently learning **Java, Spring Boot & Cloud Computing**
 - 💡 Passionate about **Open Source**, **Cybersecurity**, and **Software Engineering**
 - ⚡ Fun fact: **I use Linux as my daily driver!**
 - 📫 How to reach me: **danielhuaman.dev@gmail.com**  
@@ -21,12 +21,6 @@
 
 ### 🔗 **Connect with me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/danielhuaman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Huamán-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/danielhuaman_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@danielhuaman_dev-blue?style=flat-square&logo=twitter" />
-  </a>
   <a href="mailto:danielhuaman.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-danielhuaman.dev%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
@@ -64,28 +58,14 @@
 
 ---
 
-### 📚 **Latest Projects**
-- 🔹 **[Harmonicv3 - Music Player in React](https://github.com/daniellazaro1555/harmonicv3)**
-- 🔹 **[Inventory Management System in Java](https://github.com/daniellazaro1555/inventory-system)**
-- 🔹 **[Thread Video Downloader - React & FastAPI](https://github.com/daniellazaro1555/thread-downloader)**
-
----
-
-### 📝 **Blog & Articles**
-- [How to optimize React performance](https://dev.to/danielhuaman/react-performance-optimization)
-- [Top 10 Linux commands every developer should know](https://dev.to/danielhuaman/linux-commands)
-
----
-
 ### 🎯 **Let's Collaborate!**
 I'm always open to new ideas, collaborations, and tech discussions. If you're working on an interesting project and need help, feel free to reach out!
 
 ---
 
 ### ✅ **Improvements in this version**
-- **Clearer structure** with sections for **About Me, Tech Stack, Projects, and Blog**.  
-- **Better visual appeal** with centered stats and structured badges.  
-- **Concise but informative**, keeping lo relevante sin saturar con demasiada información.  
-- **Professional tone** while keeping it approachable.
+- **Fixed broken links** and removed placeholders.  
+- **Better readability** with structured sections.  
+- **More concise but professional** without exceso de texto.  
 
 ---
