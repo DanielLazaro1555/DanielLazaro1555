@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **Java, Spring Boot & Cloud Computing**
 - 💡 Passionate about **Open Source**, **Cybersecurity**, and **Software Engineering**
 - ⚡ Fun fact: **I use Linux as my daily driver!**
-- 📫 How to reach me: **danielhuaman.dev@gmail.com**  
 
 ---
 
