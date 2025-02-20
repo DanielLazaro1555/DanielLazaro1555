@@ -19,15 +19,6 @@
 
 ---
 
-### 🔗 **Connect with me**
-<p align="left">
-  <a href="mailto:danielhuaman.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-danielhuaman.dev%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
-
----
-
 ### 🛠 **Tech Stack**
 <p align="left">
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
