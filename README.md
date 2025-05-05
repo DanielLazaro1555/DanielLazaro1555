@@ -1,61 +1,61 @@
-<h1 align="center">Hi 👋, I'm Daniel Huamán</h1>
-<h3 align="center">A passionate Full-Stack Developer from Peru</h3>
+<h1 align="center">¡Hola! 👋 Soy Daniel Huamán</h1>
+<h3 align="center">🚀 Desarrollador Full-Stack apasionado de Perú</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniellazaro1555&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=daniellazaro1555&label=Vistas+del+perfil&color=00b4d8&style=flat-square" alt="Contador de visitas"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daniellazaro1555&theme=onedark&margin-w=5&margin-h=5&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=daniellazaro1555&theme=gruvbox&margin-w=5&column=8" alt="Trofeos GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🚀 **About Me**
-- 🔭 I’m currently working on **Full-Stack Development Projects**
-- 🌱 I’m currently learning **Java, Spring Boot & Cloud Computing**
-- 💡 Passionate about **Open Source**, **Cybersecurity**, and **Software Engineering**
-- ⚡ Fun fact: **I use Linux as my daily driver!**
+## 🌟 **Sobre Mí**
+- 💼 Actualmente trabajo en **proyectos Full-Stack**
+- 📚 Aprendiendo **Java, Spring Boot & Cloud Computing**
+- 🔥 Pasión por el **Open Source**, **Ciberseguridad** y **Arquitectura de Software**
+- 🐧 Curiosidad: **¡Uso Linux como sistema principal!**
+- 💬 Pregúntame sobre **tecnología, desarrollo web o Linux**
 
 ---
 
-### 🛠 **Tech Stack**
-<p align="left">
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 **GitHub Stats**
+## 🛠️ **Tecnologías Favoritas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellazaro1555&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellazaro1555&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielLazaro1555&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,js,mysql,git,linux,tailwind,docker,aws,postman&theme=dark&perline=6"/>
 </p>
 
 ---
 
-### 🎯 **Let's Collaborate!**
-I'm always open to new ideas, collaborations, and tech discussions. If you're working on an interesting project and need help, feel free to reach out!
+## 📈 **Mis Estadísticas GitHub**
+<div align="center">
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=daniellazaro1555&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117)
+  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellazaro1555&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117)
+
+![Racha GitHub](https://streak-stats.demolab.com?user=DanielLazaro1555&theme=nightowl&hide_border=true&background=0d1117)
+</div>
 
 ---
 
-### ✅ **Improvements in this version**
-- **Fixed broken links** and removed placeholders.  
-- **Better readability** with structured sections.  
-- **More concise but professional** without exceso de texto.  
+## 📫 **¡Colaboremos!**
+¿Tienes una idea interesante? ¡Me encantaría ser parte de tu proyecto!  
+📧 **Contáctame:** [Enviar correo](mailto:goyo1555@gmail.com)  
+💼 **LinkedIn:** [Perfil profesional](https://www.linkedin.com/in/daniel-h-35aa637b/)
+
+
 
 ---
+
+## 🔄 **Últimas Actividades**
+<!--START_SECTION:activity-->
+[💬 Comentario en issue #123 en repo...]  
+[🎉 Merge pull request #45 en repo...]  
+[🚀 Nuevo commit en proyecto...]
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=¡Gracias+por+visitar+mi+perfil!;¡Hagamos+algo+increíble+juntos!;Código+con+❤️+y+☕" alt="Texto animado"/>
+</div>
