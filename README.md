@@ -58,7 +58,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 ## 🏆 Logros Relevantes
 
 - **Java: Un lenguaje importante para conocer**  
-  Exposición realizada para una empresa, destacando su relevancia en el desarrollo de software.
+  Exposición realizada para la empresa CANVIA, destacando su relevancia en el desarrollo de software.
 
 - **Certificación: Scrum Fundamentals** – 2025  
   Certificación obtenida que avala conocimientos en metodologías ágiles.
