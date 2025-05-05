@@ -57,11 +57,17 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
 
 ## 🏆 Logros Relevantes
 
-- **Premio Mejor Proyecto Open Source 2023** - Categoría Seguridad
-- **Certificación AWS Certified Developer** - 2022
-- **Speaker en DevCon Perú** - Charla sobre microservicios
+- **Java: Un lenguaje importante para conocer**  
+  Exposición realizada para una empresa, destacando su relevancia en el desarrollo de software.
+
+- **Certificación: Scrum Fundamentals** – 2025  
+  Certificación obtenida que avala conocimientos en metodologías ágiles.
+
+- **Speaker en SaS Miralo S.A.C. – Perú**  
+  Charla técnica sobre microservicios y su aplicación práctica en entornos empresariales.
 
 ---
+
 
 ## ✍️ Últimos Proyectos
 
