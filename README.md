@@ -1,15 +1,21 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <div style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 15px; background-color: #ffffff; width: 230px; text-align: center;">
-      <img src="DanielProfile.png" width="200" alt="Foto de perfil de Daniel Huamán" style="border-radius: 50%; border: 3px solid #007BFF;">
+    <div style="border-radius: 15px; box-shadow: 0 0 15px rgba(0, 183, 255, 0.8); padding: 15px; background-color: #ffffff; width: 230px; text-align: center; border: 2px solid #00B7FF;">
+      <img src="DanielProfile.png" width="200" alt="Foto de perfil de Daniel Huamán" style="border-radius: 50%; border: 3px solid #00B7FF;">
     </div>
   </div>
-  
-  # Daniel Huamán
-  ### Desarrollador Full Stack · Perú 🇵🇪
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-h-35aa637b/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:goyo1555@gmail.com)
+
+  <h1 style="margin: 0; font-size: 2.5em; color: #333;">**Daniel Huamán**</h1>
+  <p style="margin: 5px 0; font-size: 1.2em; color: #555;">Desarrollador Full Stack · Perú 🇵🇪</p>
+
+  <div style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/daniel-h-35aa637b/ " target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin " alt="LinkedIn">
+    </a>
+    <a href="mailto:goyo1555@gmail.com" style="text-decoration: none; margin-left: 10px;">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail " alt="Email">
+    </a>
+  </div>
 </div>
 
 ---
