@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="DanielProfile.png" width="200" alt="Logo">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <div style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 15px; background-color: #ffffff; width: 230px; text-align: center;">
+      <img src="DanielProfile.png" width="200" alt="Foto de perfil de Daniel Huamán" style="border-radius: 50%; border: 3px solid #007BFF;">
+    </div>
+  </div>
   
   # Daniel Huamán
   ### Desarrollador Full Stack · Perú 🇵🇪
@@ -67,7 +71,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas. Mi 
   Charla técnica sobre microservicios y su aplicación práctica en entornos empresariales.
 
 ---
-
 
 ## ✍️ Últimos Proyectos
 
